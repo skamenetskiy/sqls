@@ -1,5 +1,9 @@
 # sqls
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/skamenetskiy/sqls)](https://pkg.go.dev/github.com/skamenetskiy/sqls)
+[![go test](https://github.com/skamenetskiy/sqls/actions/workflows/test.yml/badge.svg)](https://github.com/skamenetskiy/sqls/actions/workflows/test.yml)
+[![go report](https://goreportcard.com/badge/github.com/skamenetskiy/sqls)](https://goreportcard.com/report/github.com/skamenetskiy/sqls)
+
 A generic interface to simplify sql selects from database to struct.
 
 ## Installation
